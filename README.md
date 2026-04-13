@@ -40,7 +40,7 @@ This system automates compliance email communication for the Fortify Health whea
 
 ### Step 1: Upload the Spreadsheet
 
-1. Download the `Fortify_Health_System_v31.xlsx` file.
+1. Download the `Fortify_Health_System.xlsx` file.
 2. Go to Google Drive.
 3. Right-click the file and select **Open with > Google Sheets**.
 4. Alternatively, open Google Sheets and go to File > Import > Upload.
@@ -417,6 +417,6 @@ The script loads hardcoded defaults from the CONFIG object, then overrides them 
 
 | File | Purpose |
 |---|---|
-| Fortify_Health_System_v31.xlsx | The complete spreadsheet with all sheets, sample data, and formatting. Upload to Google Sheets. |
+| Fortify_Health_System.xlsx | The complete spreadsheet with all sheets, sample data, and formatting. Upload to Google Sheets. |
 | Code.gs.js | The Apps Script code. Paste into Extensions > Apps Script. |
 | README.md | This guide. |
